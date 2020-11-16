@@ -3,4 +3,4 @@ layout: "post"
 title: "Netflix Service"
 ---
 
-Why is everything so fucking late idk
+Why is everything so fucking late idkssdf
