@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Netflix"
+title: "Netflix Service"
 ---
 
 Why is everything so fucking late
