@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Streaming"
+title: "Streaming Services"
 ---
 
 Some Content What the Fuck
