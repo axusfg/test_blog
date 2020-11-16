@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "From the Kremlin's Window: The Geopolitics of Artificial Intelligence"
+title:  "From the Kremlin Window: The Geopolitics of Artificial Intelligence"
 date:   2020-09-12 23:27:44 -0500
 categories: jekyll update
 permalink: "/geopolitics-of-ai"
